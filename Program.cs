@@ -1,4 +1,6 @@
-﻿namespace SomaMedia;
+﻿using System.ComponentModel;
+
+namespace SomaMedia;
 
 class Program
 {
@@ -18,7 +20,13 @@ class Program
         for (var i = 0; i < qntInfo; i++)
         {
             Console.WriteLine($"Digite o {i + 1}° número.");
-            double numeroDigitado = double.Parse(Console.ReadLine());
+            //double numeroDigitado = double.Parse(Console.ReadLine());
+            double numeroDigitado;
+            while (!double.TryParse(Console.ReadLine(), out numeroDigitado))
+            {
+                Console.WriteLine("Valor inválido! tente novamente: ");
+            }
+
             numeros.Add(numeroDigitado);
         }
 
@@ -28,6 +36,8 @@ class Program
             soma += item;
         }
 
-        Console.WriteLine($"Média é igual a: {soma / qntInfo:f2}");
+        //Console.WriteLine($"Média é igual a: {soma / qntInfo:f2}");
+        Console.WriteLine($"A soma é: {numeros.Sum():f2}");
+        Console.WriteLine($"Média é igual a: {numeros.Average():f2}");
     }
 }
