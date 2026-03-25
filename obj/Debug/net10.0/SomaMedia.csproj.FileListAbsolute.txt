@@ -1,0 +1,15 @@
+C:\Dev\ProjetoEstudo\SomaMedia\bin\Debug\net10.0\SomaMedia.exe
+C:\Dev\ProjetoEstudo\SomaMedia\bin\Debug\net10.0\SomaMedia.deps.json
+C:\Dev\ProjetoEstudo\SomaMedia\bin\Debug\net10.0\SomaMedia.runtimeconfig.json
+C:\Dev\ProjetoEstudo\SomaMedia\bin\Debug\net10.0\SomaMedia.dll
+C:\Dev\ProjetoEstudo\SomaMedia\bin\Debug\net10.0\SomaMedia.pdb
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.AssemblyInfoInputs.cache
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.AssemblyInfo.cs
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.csproj.CoreCompileInputs.cache
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.sourcelink.json
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.dll
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\refint\SomaMedia.dll
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.pdb
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\SomaMedia.genruntimeconfig.cache
+C:\Dev\ProjetoEstudo\SomaMedia\obj\Debug\net10.0\ref\SomaMedia.dll
